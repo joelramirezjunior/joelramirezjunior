@@ -1,16 +1,18 @@
-## Hi there 👋
+# Joel Ramirez Jr.
 
-<!--
-**joelramirezjunior/joelramirezjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems engineer in Dallas–Fort Worth. C, Unix internals, concurrency,
+and the infrastructure around them.
 
-Here are some ideas to get you started:
+M.S. Computer Science (Computer and Network Security) and B.S. Symbolic
+Systems, Stanford. Taught operating systems and computer systems at Penn
+and Stanford.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What's here (mainly old code that I need to update)**
+- [autograder-name] — sandboxed execution service for untrusted C, containerized, Postgres-backed
+- [malicious_analyzer](...) — ML classifier for malicious URLs, with an API server and browser extension
+- [vuln-in-c](...) — vulnerability detection over the FormAI C dataset
+
+Most of my systems work is course infrastructure that stays private for
+academic integrity reasons: a preemptive user-level thread scheduler, a
+POSIX shell with job control, and a FAT filesystem implementation. Happy
+to walk through any of it. :) 
